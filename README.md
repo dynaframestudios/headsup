@@ -17,3 +17,7 @@ Captured material represents saved HTML pages, not editable source/API contracts
 
 ## Review
 Open with a local static server (for example VS Code Live Server). Edit design tokens in `assets/css/styles.css` and data in `assets/js/data.js` (the sample HTML cards are currently embedded in the pages). Connect actual API before production. Confirm client-provided brand fonts/logo. This prototype uses temporary Space Grotesk and DM Sans fallbacks.
+
+
+## Mobile icon hotfix
+Replaced Unicode/emoji navigation and card icons with Font Awesome 6.7.2 (CDN). Fixed the giant iOS-rendered hero emoji by replacing it with a CSS ring. Updated responsive text sizing. Requires internet to load the icon font.
