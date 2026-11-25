@@ -1,0 +1,8 @@
+{
+  "name": "HeadsUp Community \u2014 Frontend Preview",
+  "short_name": "HeadsUp Preview",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f6f8",
+  "theme_color": "#001033"
+}
